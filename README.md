@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Elhalwagui</h1>
 <h3 align="center">A curious human & software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elhalwaguiahmedmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="elhalwaguiahmedmohamed" /> </p>
-
 - 🌱 I’m currently learning **Web development**
 
 - 👯 I’m looking to collaborate on **open source projects**
