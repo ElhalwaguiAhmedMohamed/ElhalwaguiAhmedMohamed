@@ -11,7 +11,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Mohamed Elhalwagui</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
 <h3 align="center">A curious man who don't know what he don't know</h3>
 
