@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Nodejs, React, GraphQL, JavaScript, Databases**
+- 💬 Ask me about **Nodejs, React, GraphQL, JavaScript, Databases, System Design**
 
 - 📫 How to reach me **elhalwaguiahmedmohamed@gmail.com**
 
